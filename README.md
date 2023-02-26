@@ -1,6 +1,6 @@
 # CS305
 
-###### Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
+## Briefly summarize your client, Artemis Financial, and their software requirements. Who was the client? What issue did they want you to address?
 
 Artemis is a finance company that deals with investments and clients wealth both domestically and internationally.
 
